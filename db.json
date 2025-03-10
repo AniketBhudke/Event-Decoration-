@@ -1,0 +1,148 @@
+{
+  "events": [
+    {
+      "name": "John Doe",
+      "email": "johndoe@example.com",
+      "phone_number": "+1-555-123-4567",
+      "event_type": "Wedding",
+      "date": "2025-02-20",
+      "message": "Looking for elegant and floral decor for the reception.",
+      "id": "c317"
+    },
+    {
+      "name": "Jane Smith",
+      "email": "janesmith@example.com",
+      "phone_number": "+1-555-987-6543",
+      "event_type": "Birthday",
+      "date": "2025-05-15",
+      "message": "Requesting a beach-themed birthday party setup.",
+      "id": "ae21"
+    },
+    {
+      "name": "Michael Johnson",
+      "email": "michaelj@example.com",
+      "phone_number": "+1-555-765-4321",
+      "event_type": "Corporate",
+      "date": "2025-08-10",
+      "message": "Looking for a sleek and modern setup for our corporate event.",
+      "id": "bb7d"
+    },
+    {
+      "id": "eb05",
+      "name": "Aniket Bhudke",
+      "email": "xicako7584@perceint.com",
+      "phonenumber": "65676755645",
+      "eventtype": "wedding",
+      "date": "2025-02-15",
+      "message": "gggg"
+    },
+    {
+      "id": "fcf7",
+      "name": "Aniket Bhudke",
+      "email": "xicako7584@perceint.com",
+      "phonenumber": "65676755645",
+      "eventtype": "wedding",
+      "date": "2025-02-15",
+      "message": "gggg"
+    },
+    {
+      "id": "c339",
+      "name": "sanika  waghmare",
+      "email": "sanikawaghmare813@gmail.com",
+      "phonenumber": "9322743913",
+      "eventtype": "wedding",
+      "date": "2025-02-20",
+      "message": "pgl"
+    },
+    {
+      "id": "d28a",
+      "name": "kunal asawar",
+      "email": "kun@gmail.com",
+      "phonenumber": "9322743913",
+      "eventtype": "wedding",
+      "date": "2025-05-15",
+      "message": "gggg"
+    },
+    {
+      "id": "3bab",
+      "name": "servesh",
+      "email": "servesh@gmail.com",
+      "phonenumber": "5555555",
+      "eventtype": "wedding",
+      "date": "2025-02-28",
+      "message": ""
+    },
+    {
+      "id": "70cb",
+      "name": "shubham waghmare",
+      "email": "abv@gmail.com",
+      "phonenumber": "9322743913",
+      "eventtype": "wedding",
+      "date": "2025-02-20",
+      "message": "pgl"
+    },
+    {
+      "id": "dd26",
+      "name": "shubham waghmare",
+      "email": "abv@gmail.com",
+      "phonenumber": "9322743913",
+      "eventtype": "baby-shower",
+      "date": "2025-02-21",
+      "message": "pgl"
+    },
+    {
+      "id": "dcbb",
+      "name": "Aniket Bhudke",
+      "email": "abv@gmail.com",
+      "phonenumber": "9322743913",
+      "eventtype": "baby-shower",
+      "date": "2025-02-27",
+      "message": "pgl"
+    },
+    {
+      "id": "859b",
+      "name": "sumit saplklal",
+      "email": "sykohd@gmail.com",
+      "phonenumber": "5641239745",
+      "eventtype": "wedding",
+      "date": "2025-02-19",
+      "message": "jcu"
+    },
+    {
+      "id": "78d7",
+      "name": "vishal mankar",
+      "email": "vishal@gmail.com",
+      "phonenumber": "4561237890",
+      "eventtype": "baby-shower",
+      "date": "2025-02-22",
+      "message": "ufufg"
+    },
+    {
+      "id": "0fad",
+      "name": "Harshal K",
+      "email": "vishal@gmail.com",
+      "phonenumber": "4561237890",
+      "eventtype": "baby-shower",
+      "date": "2025-02-28",
+      "message": "jhv"
+    },
+    {
+      "id": "3142",
+      "name": "vishal sagar",
+      "email": "saga@gmail.com",
+      "phonenumber": "4444444444",
+      "eventtype": "wedding",
+      "date": "2025-02-21",
+      "message": "jgjg"
+    },
+    {
+      "id": "eed5",
+      "name": "Aniket Bhudket",
+      "email": "depikaingle3128@gmail.com",
+      "phonenumber": "4444444444444444",
+      "eventtype": "wedding",
+      "date": "2025-04-04",
+      "message": "rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr"
+    }
+  ]
+}
