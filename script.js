@@ -74,7 +74,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
         async function submitEvent() {
             try {
-                const response = await fetch("http://localhost:4001/events", {
+                const response = await fetch("http://localhost:4000/events", {
                     method: 'POST',
                     headers: {
                         'Content-Type': 'application/json',

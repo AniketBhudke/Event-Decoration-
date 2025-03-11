@@ -24,9 +24,14 @@ body {
 
 .navbar .navbar-brand {
     font-weight: bold;
-    font-size: 1.5rem;
+    font-size: 1.7rem;
 }
 
+.logo {
+    width: 80px;  /* Adjust the width to make the logo larger */
+    height: auto; /* Ensures the aspect ratio is maintained */
+  }
+  
 .navbar .nav-link {
     color: #0a0a0a;
     font-size: 1.3rem;
